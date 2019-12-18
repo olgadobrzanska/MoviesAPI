@@ -1,6 +1,4 @@
 'use strict';
-//https://app.graphenedb.com/dbs/Olga/overview   maximusjp@wp.pl || 29862986
-//https://neo4j.com/sandbox-v2/ maximusjp@wp.pl || 1234
 // npm install --save neo4j-driver
 
 const neo4j = require('neo4j-driver').v1;
